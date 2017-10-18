@@ -36,7 +36,7 @@ Maybe someone already had a similar problem as you. You will save your and our t
   <dt>Where can I download plugin?</dt>
   <dd>You can download the plugin from our resource page on www.spigotmc.org (<a href="https://www.spigotmc.org/resources/leak-sky-wars.18568/">click here</a>)</dd>
 
-  <dt>Can I have the source code to modify plugin for my network/server??</dt>
+  <dt>Can I have the source code to modify plugin for my network/server?</dt>
   <dd>We would prefer you didn't do it. We want to create custom API for you in the future.</dd>
 
   <dt>Does the plugin works in the latest Minecraft versions?</dt>
