@@ -3,8 +3,8 @@
 # Sky-Wars - Plugin for Minecraft Server (Bukkit/Spigot)
 
 ![](https://img.shields.io/badge/Java-7_or_later-green.svg?style=flat-square&link=https://java.com)
-![](https://img.shields.io/badge/CraftBukkit->_1.10.2-blue.svg?style=flat-square&link=https://bukkit.org) 
-![](https://img.shields.io/badge/Spigot->_1.10.2-yellow.svg?style=flat-square&link=https://spigotmc.org)
+![](https://img.shields.io/badge/Server-Bukkit%20or%20Spigot-blue.svg?style=flat-square&link=https://spigot.org) 
+![](https://img.shields.io/badge/Version-1.8%20--%201.12.2-yellow.svg?style=flat-square&link=https://www.spigotmc.org/resources/leak-sky-wars.18568/)
 
 This plugin adds to your server the ability to create your own SkyWars minigame. This is perfect copy of the plugin from a most popular server and it's fully custmizable! In this price you can create own maps with custom number of the players, own chest equipment, ultra chests, kits, global & normal signs and more! 
 Plugin is compatible with most servers such as [Bukkit](https://bukkit.org), [Spigot](https://spigotmc.org), [PaperSpigot](https://paper.readthedocs.io/) 
