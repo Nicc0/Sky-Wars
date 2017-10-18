@@ -1,6 +1,6 @@
 <div align="center"><img alt="SkyWars Header" src="https://i.imgur.com/fftiJWC.png"></div>
 
-# Sky-Wars - Plugin for Minecraft Server (Bukkit/Spigot)
+# SkyWars - Plugin for Minecraft Server (Bukkit/Spigot)
 
 ![](https://img.shields.io/badge/Java-7_or_later-green.svg?style=flat-square&link=https://java.com)
 ![](https://img.shields.io/badge/Server-Bukkit%20or%20Spigot-blue.svg?style=flat-square&link=https://spigot.org) 
