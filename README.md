@@ -14,11 +14,10 @@ and uses the Java 7 or later. If you like our project give us Star on GitHub and
 <div align="center"><img alt="SkyWars Features" src="https://i.imgur.com/rdmJg73.png"></div>
  
 ### Want to know more? Visit our wiki
-* [Setup](https://github.com/Nicc0/Snake-Parkour/wiki/Setup-Guide)
-* [Commands](https://github.com/Nicc0/Snake-Parkour/wiki/Commands)
-* [Permissions](https://github.com/Nicc0/Snake-Parkour/wiki/Permissions)
-* [Messages](https://github.com/Nicc0/Snake-Parkour/wiki/Messages)
-* [Creating map](https://github.com/Nicc0/Snake-Parkour/wiki/Creating-Map-Guide)
+* [Setup](https://github.com/Nicc0/Sky-Wars/wiki/Setup)
+* [Commands](https://github.com/Nicc0/Sky-Wars/wiki/Commands)
+* [Permissions](https://github.com/Nicc0/Sky-Wars/wiki/Commands)
+* [Map Guide](https://github.com/Nicc0/Sky-Wars/wiki/Map-Guide)
 
 ## Problems, errors and ideas
 If you have some problems with configuration, messages, creating map or your console send weird errors, 
