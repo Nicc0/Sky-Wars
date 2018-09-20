@@ -25,7 +25,6 @@ create [new issue](https://github.com/Nicc0/Sky-Wars/issues/new) and we will try
 Maybe someone already had a similar problem as you. You will save your and our time so we can focus on developing the project.
 
 ### To do in the future
-- Lobby addon (Souls, Shop).
 - New modes.
 - API.
 
